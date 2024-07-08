@@ -1,4 +1,4 @@
-# CS422: Introduction to Algorithms (Fall 2022, Guidance: Prof. Edward Chlebus)
+# CS430: Introduction to Algorithms (Fall 2022, Guidance: Prof. Edward Chlebus)
 ## Illinois Institute of Technology
 
 This repository contains my learning journey in the subject of Algorithms. The course covered a variety of topics to equip me with the fundamental and advanced skills in algorithm design and analysis. Below is a summary of the key concepts and techniques learned:
